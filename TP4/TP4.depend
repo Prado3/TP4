@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1693318861 source:c:\users\usuario\documents\plantillas personalizadas de office\lucas\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"alumno.h"
+	<time.h>
+
+1693318722 c:\users\usuario\documents\plantillas personalizadas de office\lucas\tp4\alumno.h
+
+1693319223 source:c:\users\usuario\documents\plantillas personalizadas de office\lucas\tp4\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"alumno.h"
+	<time.h>
+
